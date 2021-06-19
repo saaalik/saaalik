@@ -6,7 +6,7 @@
 
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
-![Salik's github stats](https://github-readme-stats.vercel.app/api?username=saaalik&show_icons=true&theme=bear)
+![Salik's github stats](https://github-readme-stats.vercel.app/api?username=saaalik&show_icons=false&theme=bear)
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=saaalik alt=saaalik/></p>
 
 
