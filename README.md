@@ -4,8 +4,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c1387a?style=social&logo=Gmail&logoColor=c1387a&link=mailto:mdsaaalik@gmail.com)](mailto:mdsaaalik@gmail.com)
 
 ## 🧐 About
-- 🔭 I’m currently working on Android development
-- 🌱 I’m currently learning Rust-lang, and Dart
+- 🔭 I’m currently working on a fullstack project
+- 🌱 I’m currently learning Rust-lang, and Django
 - 👯 I’m a PyQt Developer
 - 🤔 I’m looking for help with Data Structure and Algorithm 
 - 😄 Pronouns: He/His
