@@ -1,22 +1,10 @@
-# Hi there!😀
+# Heyyy there!😀
 
-<img src="https://user-images.githubusercontent.com/68627617/121176776-3d016900-c87a-11eb-83b1-35a8922a84e9.gif" align="right" width="300" height="225"/>
+[![Linkedin Badge](https://img.shields.io/badge/-sagarkhurana-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/sagar-khurana-b98a9418b/)](https://www.linkedin.com/in/sagar-khurana-b98a9418b/)
+[![Twitter Badge](http://img.shields.io/badge/-@SagarKh03980377-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/prathamk22)](https://twitter.com/SagarKh03980377)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:sagarkhurana00786@gmail.com)](mailto:sagarkhurana00786@gmail.com)
 
-<!--
-**saaalik/saaalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 ![Salik's github stats](https://github-readme-stats.vercel.app/api?username=saaalik&show_icons=true&theme=bear)
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=saaalik alt=saaalik/></p>
