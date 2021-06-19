@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Salik's github stats](https://github-readme-stats.vercel.app/api?username=saaalik&show_icons=true&theme=tokyonight)
+![Salik's github stats](https://github-readme-stats.vercel.app/api?username=saaalik&show_icons=true&theme=bear)
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=saaalik alt=saaalik/></p>
 
 
