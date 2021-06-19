@@ -1,6 +1,6 @@
 # Heyyy there!😀
 
-[![Linkedin Badge](https://img.shields.io/badge/-mdsalik-c1387a?style=social&logo=Linkedin&logoColor=c1387a&color=c1387a&link=https://www.linkedin.com/in/md-salik-75a5021b8/)](https://www.linkedin.com/in/md-salik-75a5021b8/)
+[![Linkedin Badge](https://img.shields.io/badge/-mdsalik-c1387a?style=social&logo=Linkedin&logoColor=c1387a&labelColor=c1387a&color=c1387a&link=https://www.linkedin.com/in/md-salik-75a5021b8/)](https://www.linkedin.com/in/md-salik-75a5021b8/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:mdsaaalik@gmail.com)](mailto:mdsaaalik@gmail.com)
 
 
