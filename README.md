@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Rust-lang, and Django
 - 👯 I’m a PyQt Developer
 - 🤔 I’m looking for help with Data Structure and Algorithm 
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=saaalik alt=saaalik ?color=white ?labelColor=c1387a/></p>
 
